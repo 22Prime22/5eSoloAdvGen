@@ -2,7 +2,7 @@
 
 Plan
 
-1. Encounter (Combat) Generator
+1. ENCOUNTER (Combat) Generator
 	-Settings
 		-Difficulty
 		-Goal
@@ -13,7 +13,7 @@ Plan
 		-Enemies
 		-Tactics
 
-2. Encounter (Social) Generator
+2. ENCOUNTER (Social) Generator
 	-Settings
 		-Social Standings
 		-Focus
@@ -26,15 +26,25 @@ Plan
 		-Responses
 		-New settings
 
-3. Dungeon Generator
+3. DUNGEON Generator
 	-Settings
 		-Location
 		-Theme
 	-To Generate
+		-Map
+		-ENCOUNTERS
+
+4. LOCATION Generator
+	-Settings
+		-Type
+		-Theme
+		-Location
+	-To Generate
 		-Layout
-		-Encounters
+		-DUNGEONS
 
 Definitions:
-	Encounter (Combat) - A single fight
-	Encounter (Social) - A single conversation
-	Dungeon - A location in which several encounter may take place
+	ENCOUNTER (Combat) 		- A single fight 												e.g. fighting a group of skeletons, a bar fight...
+	ENCOUNTER (Social) 		- A single conversation 										e.g. bartering with a shop keeper, recieving a quest from the adventurers guild...
+	DUNGEON 				- A location in which several ENCOUNTERS may take place 		e.g. a dungeon, a building, section of a forest...
+	LOCATION 				- An area which may contain 1 or more DUNGEONS					e.g. a village, a section of a town, an area of country side...
