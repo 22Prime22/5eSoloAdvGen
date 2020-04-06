@@ -25,3 +25,16 @@ Plan
 		-Options
 		-Responses
 		-New settings
+
+3. Dungeon Generator
+	-Settings
+		-Location
+		-Theme
+	-To Generate
+		-Layout
+		-Encounters
+
+Definitions:
+	Encounter (Combat) - A single fight
+	Encounter (Social) - A single conversation
+	Dungeon - A location in which several encounter may take place
