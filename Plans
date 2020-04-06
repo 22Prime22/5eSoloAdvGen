@@ -52,7 +52,7 @@ Overall Plan
 		-Inner ZONES
 		-LOCATIONS
 
-6. WORLD Generator
+6. WORLD Generator (Stretch)
 	-Settings
 		-Theme
 	-to Generate
@@ -70,14 +70,49 @@ Overall Plan
 		-Description
 		-Locations to visit
 
-8. CAMPAIGN Generator
+8. CAMPAIGN Generator (Stretch)
 	-Settings
 	-To Generate
 
-9. STORY Generator
+9. STORY Generator (Stretch)
 	-Settings
 	-To Generate
 
+
+ENCOUNTER (Combat) Generator Plan
+
+	Enemy Table
+		-Theme
+		-Difficulty
+		-Preferred Tactics
+		-Learning?
+		-Family
+	Selecting Actions
+		-Simple
+	Enviornment Interactions
+
+	Generate at start:
+		Enemies
+		Positions
+		Reactions to start options
+		Reactions to talk options
+		Description
+
+	Start of encounter options
+		-Begin
+		-Observe
+		-Greet
+		-Stealth
+		-White Flag
+		-Run
+		-Unique
+
+	During Combat:
+		DnD 5e combat
+		Talk actions
+			-Insult
+			-Negotiate
+			-Compliment
 
 
 
