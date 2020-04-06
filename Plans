@@ -1,8 +1,27 @@
 5e Solo adventure generator
 
-Complexity Levels
+Plan
 
-1.Difficulty Curves
-	a.Overall
-	b.Quest
-	c.Encounter
+1. Encounter (Combat) Generator
+	-Settings
+		-Difficulty
+		-Goal
+		-Level
+		-Theme
+		-Boss?
+	-To Generate
+		-Enemies
+		-Tactics
+
+2. Encounter (Social) Generator
+	-Settings
+		-Social Standings
+		-Focus
+		-Emotions
+		-Theme
+		-Participants
+	-To Generate
+		-Dialog
+		-Options
+		-Responses
+		-New settings
