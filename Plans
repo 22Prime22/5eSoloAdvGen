@@ -1,6 +1,6 @@
-5e Solo adventure generator
-
 Plan
+
+Overall Plan
 
 1. ENCOUNTER (Combat) Generator
 	-Settings
@@ -43,8 +43,49 @@ Plan
 		-Layout
 		-DUNGEONS
 
+5. ZONE Generator
+	-Settings
+		-Type
+		-Theme
+	-To Generate
+		-Layout
+		-Inner ZONES
+		-LOCATIONS
+
+6. WORLD Generator
+	-Settings
+		-Theme
+	-to Generate
+		-Layout
+		-ZONES
+
+7. QUEST Generator
+	-Settings
+		-Difficulty
+		-Theme
+		-Start Location
+	-To Generate
+		-Important NPCs
+		-Goal
+		-Description
+		-Locations to visit
+
+8. CAMPAIGN Generator
+	-Settings
+	-To Generate
+
+9. STORY Generator
+	-Settings
+	-To Generate
+
+
+
+
 Definitions:
 	ENCOUNTER (Combat) 		- A single fight 												e.g. fighting a group of skeletons, a bar fight...
 	ENCOUNTER (Social) 		- A single conversation 										e.g. bartering with a shop keeper, recieving a quest from the adventurers guild...
 	DUNGEON 				- A location in which several ENCOUNTERS may take place 		e.g. a dungeon, a building, section of a forest...
 	LOCATION 				- An area which may contain 1 or more DUNGEONS					e.g. a village, a section of a town, an area of country side...
+	ZONE					- An area which may contain smaller ZONES amd LOCATIONS			e.g. a city, a country, woods...
+	WORLD					- The entire accessable part of the game						e.g. a world
+	QUEST 					- A set of goals to be completed								e.g. get an item from a dungeon, deal with some bandits...
